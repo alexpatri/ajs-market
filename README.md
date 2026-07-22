@@ -1,17 +1,13 @@
-# aj's market
+# AJ's market
 
 Marketplace de plugins do Claude Code do **alexpatri**.
-
-> Identificador do marketplace: `ajs-market` (é o que vai depois do `@` ao
-> instalar). "aj's market" é só o nome de exibição — o campo `name` do
-> `marketplace.json` precisa ser kebab-case.
 
 ## Como usar
 
 No Claude Code:
 
 ```
-/plugin marketplace add alexpatri/marketplace
+/plugin marketplace add alexpatri/ajs-market
 /plugin install <plugin>@ajs-market
 ```
 
